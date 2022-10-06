@@ -1,0 +1,19 @@
+.main-title {
+  color: rgb(250, 223, 243);
+  font-family: "Silkscreen", cursive;
+  margin-right: 5005rem;
+}
+body {
+  background-color: #3b0606;
+}
+
+p {
+  background-color: rgba(250, 235, 215, 0.308);
+  padding: 2rem 4rem;
+  font-family: "Crimson Text", serif;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
